@@ -29,5 +29,6 @@ Renan Mitsuru Nishitani Souza e Rebeca Martins Silva
 ![image](https://github.com/Renan-MitsuruNS/Exercicios_Fixacao/assets/127457010/8b608d6e-afab-4214-a4cb-edb57511b4b8)
 
 ## Criação do método (onclick) e programando-o   
+![image](https://github.com/Renan-MitsuruNS/Exercicios_Fixacao/assets/127457010/ec880ca1-bd3d-4e8a-9804-9ab3655f5988)
 ![image](https://github.com/Renan-MitsuruNS/Exercicios_Fixacao/assets/127457010/5c4b2ca3-5e5a-4796-970d-1db6dff834af)
 
