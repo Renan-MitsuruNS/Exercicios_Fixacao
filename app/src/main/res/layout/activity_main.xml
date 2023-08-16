@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_launcher_background"
+    android:backgroundTint="@color/lightbeige"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/txtViewMenu"
+        android:layout_width="415dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="100dp"
+        android:layout_marginEnd="95dp"
+        android:background="@drawable/ic_launcher_background"
+        android:backgroundTint="@color/beige"
+        android:freezesText="true"
+        android:gravity="center|center_vertical"
+        android:text="@string/txtv1"
+        android:textColor="@color/design_default_color_surface"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.514"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="VisualLintBounds,TextContrastCheck" />
+
+    <Button
+        android:id="@+id/btnEx1"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="146dp"
+        android:layout_marginEnd="147dp"
+        android:layout_marginBottom="399dp"
+        android:backgroundTint="@color/brown"
+        android:onClick="linkEx1"
+        android:text="@string/exercicio1"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btnEx4"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="146dp"
+        android:layout_marginEnd="147dp"
+        android:layout_marginBottom="244dp"
+        android:backgroundTint="@color/brown"
+        android:onClick="linkEx4"
+        android:text="@string/exercicio4"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

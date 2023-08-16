@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExercicioFixacao</string>
+    <string name="txtv1">Exercícios de Fixação 1 e 4</string>
+    <string name="exercicio1">Exercício 1</string>
+    <string name="exercicio4">Exercício 4</string>
+    <string name="txtv2">Exercício 1</string>
+    <string name="n2">Digite outro número</string>
+    <string name="n1">Digite um número aqui</string>
+    <string name="resultado1">Resultado</string>
+    <string name="check1">Check Múltiplos</string>
+    <string name="btncalcular">Calcular</string>
+    <string name="horario">Digite o horário de agora</string>
+    <string name="horariofinal">Resultado</string>
+</resources>
