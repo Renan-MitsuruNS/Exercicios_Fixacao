@@ -23,5 +23,11 @@ Renan Mitsuru Nishitani Souza e Rebeca Martins Silva
 ![image](https://github.com/Renan-MitsuruNS/Exercicios_Fixacao/assets/127457010/b337ab48-7340-4f64-af33-96c901106501)
 
 ## Programando os métodos e recebendo os dados 
-![image](https://github.com/Renan-MitsuruNS/Exercicios_Fixacao/assets/127457010/00a8d615-7635-42f0-8223-737bb4b4b306)
+![image](https://github.com/Renan-MitsuruNS/Exercicios_Fixacao/assets/127457010/00a8d615-7635-42f0-8223-737bb4b4b306)  
+
+## Criação da activity- Configurando tela exercício 4
+![image](https://github.com/Renan-MitsuruNS/Exercicios_Fixacao/assets/127457010/8b608d6e-afab-4214-a4cb-edb57511b4b8)
+
+## Criação do método (onclick) e programando-o   
+![image](https://github.com/Renan-MitsuruNS/Exercicios_Fixacao/assets/127457010/5c4b2ca3-5e5a-4796-970d-1db6dff834af)
 
