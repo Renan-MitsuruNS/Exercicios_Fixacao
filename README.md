@@ -32,3 +32,6 @@ Renan Mitsuru Nishitani Souza e Rebeca Martins Silva
 ![image](https://github.com/Renan-MitsuruNS/Exercicios_Fixacao/assets/127457010/ec880ca1-bd3d-4e8a-9804-9ab3655f5988)
 ![image](https://github.com/Renan-MitsuruNS/Exercicios_Fixacao/assets/127457010/5c4b2ca3-5e5a-4796-970d-1db6dff834af)
 
+## Dando git bash na pasta do projeto
+![image](https://github.com/Renan-MitsuruNS/Exercicios_Fixacao/assets/127457010/d66d9c44-947a-4c86-b468-833cac48760b)
+
