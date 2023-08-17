@@ -1,6 +1,6 @@
 # Exercicios_Fixacao
 Exercícios de Fixação do componente PAM.   
-Renan Mitsuru Nishitani Souza e Rebeca Martins Silva   
+### Renan Mitsuru Nishitani Souza e Rebeca Martins Silva   
 
 # Etapas   
 
