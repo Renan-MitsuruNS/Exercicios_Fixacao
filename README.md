@@ -2,7 +2,25 @@
 Exercícios de Fixação do componente PAM.   
 ### Renan Mitsuru Nishitani Souza e Rebeca Martins Silva   
 
-# Etapas   
+# Etapas Relatório (Imagens pararam de mostrar, deram error por algum motivo)   
+Primeiro foi criado o repositório, depois o projeto. A partir disso comecei a configurar a página inicial.    
+Depois que a página inicial foi criada, criei os métodos onClick do botão de link.    
+E então programei os métodos, para assim ser direcionado as páginas de exercício (1 e 4).    
+A etapa do exercício 1 consiste na criação do layout e depois a parte de programação, que era configurar os buttons utilizando método onClick.     
+A etapa do exercício 4 é a mesma que a do 1.    
+
+
+Quanto a parte do git bash, fui no diretório do projeto e dei git bash here.
+A ordem dos comandos foi:
+git config --global user.name "Renan-MitsuruNS"  
+git config --global user.email "renan.souza202@etec.sp.gov.br"
+git init
+git commit -m "Arquivos do projeto"
+git remote add origin "link do repositório"
+git push origin master
+
+
+
 
 ## Criar o repositório
 ![image](https://github.com/Renan-MitsuruNS/Exercicios_Fixacao/assets/127457010/e6d30f96-685d-4790-8a8c-9b8e25095d5c)
