@@ -13,8 +13,9 @@ A etapa do exercício 4 é a mesma que a do 1.
 Quanto a parte do git bash, fui no diretório do projeto e dei git bash here.
 A ordem dos comandos foi: <br/>
 git config --global user.name "Renan-MitsuruNS"<br/>     
-git config --global user.email "renan.souza202@etec.sp.gov.br"<br/>     
+git config --global user.email "renan.souza202@etec.sp.gov.br"<br/>    
 git init     <br/>
+git add . <br/>
 git commit -m "Arquivos do projeto" <br/>
 git remote add origin "link do repositório" <br/>
 git push origin master <br/>
